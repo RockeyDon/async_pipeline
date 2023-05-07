@@ -1,5 +1,7 @@
 # async_pipeline
-complex async data pipelines with functional methods
+![Tests](https://github.com/RockeyDon/async_pipeline/workflows/Python%20package/badge.svg) ![PyPI](https://img.shields.io/pypi/v/async_pipeline)
+
+Complex async data pipelines with functional methods
 
 ## Features
 `async_pipeline` aims to simplify the creation of asynchronous pipelines.
@@ -21,7 +23,7 @@ Main features are:
 ## Quick Start
 ### install
 ```shell
-python setup.py install
+pip install async-pipeline
 ```
 
 ### Simple linear pipeline
